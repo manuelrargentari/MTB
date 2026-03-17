@@ -1,0 +1,23 @@
+{
+  "name": "Makler Tagebuch",
+  "short_name": "Maklertagebuch",
+  "description": "Professionelles Gesprächsprotokoll-System für Immobilienmakler",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#B8924A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
